@@ -1,18 +1,3 @@
-######################################################################
-# CT60A0203 Ohjelmoinnin perusteet
-# Tekijä: Hannes Karppinen
-# Opiskelijanumero: 491936
-# Päivämäärä: 10.12.2022
-# Kurssin oppimateriaalien lisäksi työhön ovat vaikuttaneet seuraavat
-# lähteet ja henkilöt, ja se näkyy tehtävässä seuraavalla tavalla:
-# ----
-# Mahdollisen vilppiselvityksen varalta vakuutan, että olen tehnyt itse
-# tämän tehtävän ja vain yllä mainitut henkilöt sekä lähteet ovat
-# vaikuttaneet siihen yllä mainituilla tavoilla.
-######################################################################
-# Tehtävä HTPeruskirjasto.py
-# eof
-
 #Kirjastot:
 import datetime
 import sys
